@@ -1,5 +1,5 @@
 # nwhacks2018
-NWHacks 2018 Hackathon Jan 13-14
+NWHacks 2018 Hackathon Jan 13-14 https://devpost.com/software/coffee-runner
 
 ## Coffee Runner chatbot using AWS and Slack API
 

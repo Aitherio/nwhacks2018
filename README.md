@@ -26,4 +26,6 @@ Although it is currently a WIP (yes even though its after the hackathon) we have
 
 
 ## Inspiration
-It was midnight and our original plan didn't work, so Sassy Serena came out of her shell and wanted to do something with a coffee related topic, and we went with it ... halfway through the hackathon haha
+The original idea was to create a Slack chatbot that logged your daily mood and events. However, Slack is primarily for teams and we needed to find a use case that was useful and different from the already long list of published apps. In the hours leading up to midnight, Monica and Amy continued to work on setting up Amazon Lambda and Amazon Lex while Cameron and Serena brainstormed use cases that we would use ourselves. Pulling from previous work experience, we gravitated towards a bot that would assist in compiling orders for coffee runs. However, it would live solely on the private bot channel to avoid two distracting app pitfalls.
+* 1. Having too many group chats on Slack that are not for work teams
+* 2. Large coffee run channel may be a distraction and open up the offer to too large of an audience

@@ -11,10 +11,10 @@ Although it is currently a WIP (yes even though its after the hackathon) we have
 ## Team
 
 * [Monica](https://github.com/bui1) - *Setting up backend service with Lambda Amazon function*
-* **Amy**(https://github.com/AmyHong0502) - *Working and testing with database and backend*
-* **Merina**(https://github.com/merinaleong) - *Design of the application*
-* **Serena**(https://github.com/coriils) - *Setting up frontend service and connecting app to Slack*
-* **Cameron**(https://github.com/aitherio) - *Setting up frontend service with main commands and intents*
+* [Amy](https://github.com/AmyHong0502) - *Working and testing with database and backend*
+* [Merina](https://github.com/merinaleong) - *Design of the application*
+* [Serena](https://github.com/coriils) - *Setting up frontend service and connecting app to Slack*
+* [Cameron](https://github.com/aitherio) - *Setting up frontend service with main commands and intents*
 
 
 ## Resources for future use

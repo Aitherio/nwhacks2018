@@ -7,6 +7,7 @@ This is a chatbot that allows a user who is going on a coffee run to grab everyo
 
 Although it is currently a WIP (yes even though its after the hackathon) we have learned a lot about the chatbot framework despite that none of us have ever touched it before.
 
+Check it out at http://coffeerunner.tech!
 
 ## Team
 

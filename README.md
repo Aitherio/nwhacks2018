@@ -16,6 +16,10 @@ Although it is currently a WIP (yes even though its after the hackathon) we have
 * [Serena](https://github.com/coriils) - *Setting up frontend service and connecting app to Slack*
 * [Cameron](https://github.com/aitherio) - *Setting up frontend service with main commands and intents*
 
+## Built With
+
+* [Amazon lex](https://aws.amazon.com/lex/) - Chatbot
+* [Bootstrap](https://getbootstrap.com/) - Web framework
 
 ## Resources for future use
 * https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e

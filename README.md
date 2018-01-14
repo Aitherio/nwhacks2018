@@ -20,7 +20,9 @@ Although it is currently a WIP (yes even though its after the hackathon) we have
 ## Resources for future use
 * https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e
 * https://medium.com/@srinivasanchandramouli/noobs-guide-to-building-a-chatbot-using-lex-54c88b5323ea
-* 
+* https://aws.amazon.com/blogs/machine-learning/building-better-bots/
+* https://www.fullstackpython.com/blog/aws-lambda-python-3-6.html
+* https://medium.com/@vikrame/build-a-chatbot-using-amazon-lex-and-aws-lambda-b90c75ea6626
 
 
 ## Inspiration

@@ -5,16 +5,16 @@ NWHacks 2018 Hackathon Jan 13-14
 
 This is a chatbot that allows a user who is going on a coffee run to grab everyone's order into a list without the user phyiscally needing to ask the others what they want, let the bot do the work.
 
-Although it is currently a WIP (yes even though its after the hackathon) we have learned a lot about the chatbot framework despite that none of us have ever touched it before. 
+Although it is currently a WIP (yes even though its after the hackathon) we have learned a lot about the chatbot framework despite that none of us have ever touched it before.
 
 
 ## Team
 
-* **Monica** - *Setting up backend service with Lambda Amazon function* 
-* **Amy** - *Working and testing with database and backend* 
-* **Merina** - *Design of the application* 
-* **Serena** - *Setting up frontend service and connecting app to Slack* 
-* **Cameron** - *Setting up frontend service with main commands and intents*
+* [Monica](https://github.com/bui1) - *Setting up backend service with Lambda Amazon function*
+* **Amy**(https://github.com/AmyHong0502) - *Working and testing with database and backend*
+* **Merina**(https://github.com/merinaleong) - *Design of the application*
+* **Serena**(https://github.com/coriils) - *Setting up frontend service and connecting app to Slack*
+* **Cameron**(https://github.com/aitherio) - *Setting up frontend service with main commands and intents*
 
 
 ## Resources for future use
